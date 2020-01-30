@@ -1,4 +1,4 @@
-The idea of the project is to build a easy to use console for using mozilla common voice. Based on an arduino project, which emulates a keyboard for the common voice keyboard-shortcuts. So the website is completly controlled by the self made keybord.
+The idea of the project is to build a easy to use console for using [mozilla common voice](https://voice.mozilla.org/). Based on an arduino project, which emulates a keyboard for the common voice keyboard-shortcuts. So the website is completly controlled by the self made keybord.
 
 ![](./img/commons-console-full.jpg)
 

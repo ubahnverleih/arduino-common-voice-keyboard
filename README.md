@@ -5,3 +5,5 @@ The idea of the project is to build a easy to use console for using [mozilla com
 ![](./img/backside.jpg)
 
 The current arduino project is configured for german version of the website, but can adjusted for other languages by changing the keys in `chars` and adjusting the pins `keyPins`. For non english keyboard keys use the `ü` as an example.
+
+You can find the SVG for the Lasercutter in [`voice_arcade_board.svg`](./voice_arcade_board.svg).
